@@ -13,6 +13,7 @@
 		77CA3E121A250F6A002F82A4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77CA3E111A250F6A002F82A4 /* Images.xcassets */; };
 		77CA3E151A250F6A002F82A4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 77CA3E131A250F6A002F82A4 /* LaunchScreen.xib */; };
 		77CA3E211A250F6A002F82A4 /* FirstPictureAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77CA3E201A250F6A002F82A4 /* FirstPictureAppTests.swift */; };
+		77CA3E2B1A2510ED002F82A4 /* IMG_1214.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 77CA3E2A1A2510ED002F82A4 /* IMG_1214.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		77CA3E1A1A250F6A002F82A4 /* FirstPictureAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirstPictureAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		77CA3E1F1A250F6A002F82A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		77CA3E201A250F6A002F82A4 /* FirstPictureAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstPictureAppTests.swift; sourceTree = "<group>"; };
+		77CA3E2A1A2510ED002F82A4 /* IMG_1214.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_1214.jpg; path = ../../../Desktop/IMG_1214.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		77CA3E081A250F6A002F82A4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				77CA3E2A1A2510ED002F82A4 /* IMG_1214.jpg */,
 				77CA3E091A250F6A002F82A4 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,6 +198,7 @@
 				77CA3E101A250F6A002F82A4 /* Main.storyboard in Resources */,
 				77CA3E151A250F6A002F82A4 /* LaunchScreen.xib in Resources */,
 				77CA3E121A250F6A002F82A4 /* Images.xcassets in Resources */,
+				77CA3E2B1A2510ED002F82A4 /* IMG_1214.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
